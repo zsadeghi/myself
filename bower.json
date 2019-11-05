@@ -1,0 +1,21 @@
+{
+  "name": "myself",
+  "homepage": "https://github.com/zsadeghi/myself",
+  "authors": [
+    "Zoe Sadeghi <zsadeghi@uw.edu>"
+  ],
+  "description": "a brief story of me",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}

@@ -4,3 +4,4 @@
 *.ipr
 .DS_Store
 ._*
+bower_components
